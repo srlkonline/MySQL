@@ -38,7 +38,7 @@ This repository showcases projects focused on data cleaning, transformation, and
 
 
 
-Use Cases:
+# Use Cases:
 
 -Sales and revenue analysis
 
