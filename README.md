@@ -1,33 +1,69 @@
-# 📊 Layoffs Data Cleaning & Exploration Project
+# Excel Data Cleaning & Dashboard Projects
 
-This SQL project focuses on cleaning and analyzing a dataset of layoffs from various companies during the COVID-19 era. It includes data cleaning steps like removing duplicates, handling nulls, fixing formats, and then performing exploratory analysis to uncover trends.
+This repository showcases projects focused on data cleaning, transformation, and dashboard creation using Microsoft Excel. The goal is to turn raw, messy data into structured and actionable insights through effective use of Excel’s powerful features.
 
-## 🧹 Steps Involved
 
-### 🔧 Data Cleaning
 
-- Removed duplicate entries  
-- Standardized company and industry names  
-- Converted string dates into proper `DATE` format  
-- Handled blank and null values  
-- Removed rows without meaningful layoff data  
+# Data Cleaning & Preparation:
 
-### 📈 Exploratory Data Analysis
+-Removal of duplicates and inconsistencies
 
-- Analyzed total layoffs by company, industry, country, and year  
-- Identified companies with 100% layoffs (likely shutdowns)  
-- Tracked monthly and cumulative layoffs  
-- Found top 5 companies with most layoffs per year  
+-Handling missing values
 
-## 💡 Observations
+-Standardizing formats (dates, text, numbers)
 
-- Layoffs peaked around the COVID-19 pandemic  
-- USA experienced the highest number of layoffs  
-- Industries like retail, consumer, and transportation were hit the hardest  
-- Some companies shut down entirely  
+-Data validation and error checks
 
-## 🛠️ Tech Used
 
-- MySQL Workbench  
-- Basic SQL window functions (`ROW_NUMBER()`)  
-- CTEs, aggregate functions, date formatting  
+
+# Dashboard Creation:
+
+-Interactive reports using PivotTables, PivotCharts, and Slicers
+
+-Custom visuals with conditional formatting and charts
+
+-KPI tracking and performance summaries
+
+-Clean, user-friendly layouts for easy interpretation
+
+
+
+# Automation:
+
+-Use of formulas (IF, VLOOKUP/XLOOKUP, INDEX-MATCH, etc.)
+
+-Named ranges and dynamic charts
+
+-Basic macros (where applicable)
+
+
+
+Use Cases:
+
+-Sales and revenue analysis
+
+-Inventory tracking
+
+-HR and workforce reporting
+
+-Financial summaries
+
+-Operational performance dashboards
+
+-Healthcare Analysis
+
+
+
+# Tools & Techniques Used:
+
+-Microsoft Excel – Core tool for data processing and dashboarding
+
+-Excel Formulas – For data manipulation and calculations
+
+-PivotTables & PivotCharts – For dynamic summaries and analysis
+
+-Slicers & Timelines – For interactive filtering
+
+-Data Validation & Conditional Formatting – For data quality and highlighting
+
+-Power Query (where applicable) – For advanced data transformation
