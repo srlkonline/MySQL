@@ -1,69 +1,65 @@
-# Excel Data Cleaning & Dashboard Projects
+# MySQL Data Cleaning & Exploratory Data Analysis (EDA)
 
-This repository showcases projects focused on data cleaning, transformation, and dashboard creation using Microsoft Excel. The goal is to turn raw, messy data into structured and actionable insights through effective use of Excel’s powerful features.
-
-
-
-# Data Cleaning & Preparation:
-
--Removal of duplicates and inconsistencies
-
--Handling missing values
-
--Standardizing formats (dates, text, numbers)
-
--Data validation and error checks
+This repository contains projects focused on cleaning, transforming, and analyzing datasets using MySQL. The objective is to prepare raw data for analysis and uncover meaningful insights through structured queries and statistical exploration.
 
 
 
-# Dashboard Creation:
+# Data Cleaning:
 
--Interactive reports using PivotTables, PivotCharts, and Slicers
+-Handling missing, null, or inconsistent values
 
--Custom visuals with conditional formatting and charts
+-Standardizing data formats (e.g., dates, categories, text)
 
--KPI tracking and performance summaries
+-Removing duplicates and outliers
 
--Clean, user-friendly layouts for easy interpretation
+-Filtering and normalizing records for consistency
 
 
 
-# Automation:
+# Exploratory Data Analysis (EDA):
 
--Use of formulas (IF, VLOOKUP/XLOOKUP, INDEX-MATCH, etc.)
+-Descriptive statistics (mean, median, count, etc.)
 
--Named ranges and dynamic charts
+-Distribution analysis and trend identification
 
--Basic macros (where applicable)
+-Grouped aggregations and segmentation
+
+-Time series summaries and growth trends
+
+-Joining multiple tables for richer insights
 
 
 
 # Use Cases:
 
--Sales and revenue analysis
+-Customer segmentation and behavior analysis
 
--Inventory tracking
+-Sales and revenue trends
 
--HR and workforce reporting
+-Product and inventory insights
 
--Financial summaries
+-Employee and HR data exploration
 
--Operational performance dashboards
-
--Healthcare Analysis
+-Operational performance analysis
 
 
 
 # Tools & Techniques Used:
 
--Microsoft Excel – Core tool for data processing and dashboarding
+-MySQL – Primary language for data querying and transformation
 
--Excel Formulas – For data manipulation and calculations
+# SQL Queries:
 
--PivotTables & PivotCharts – For dynamic summaries and analysis
+-SELECT, WHERE, GROUP BY, HAVING, ORDER BY
 
--Slicers & Timelines – For interactive filtering
+-JOIN, UNION, subqueries, and CTEs
 
--Data Validation & Conditional Formatting – For data quality and highlighting
+-Window functions for running totals, ranks, etc.
 
--Power Query (where applicable) – For advanced data transformation
+-Date functions for time-based analysis
+
+
+
+Data Export to Excel / Power BI / Python (optional) – For advanced visualization or modeling
+
+ERD and Schema Diagrams – For understanding relationships in complex databases
