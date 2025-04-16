@@ -30,20 +30,6 @@ This repository contains projects focused on cleaning, transforming, and analyzi
 
 
 
-# Use Cases:
-
--Customer segmentation and behavior analysis
-
--Sales and revenue trends
-
--Product and inventory insights
-
--Employee and HR data exploration
-
--Operational performance analysis
-
-
-
 # Tools & Techniques Used:
 
 -MySQL – Primary language for data querying and transformation
